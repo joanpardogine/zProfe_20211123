@@ -1,4 +1,15 @@
-# 20211123
+# Profe_20211123
+
+# Alumne:  **Cognom, Nom**
+
+## Teoria
+|Preg.|**1**|**2**|**3**|**4**|**5**|**6**| 
+|:------------:| :-------------:| :-------------:| :-------------:|:-------------:| :-------------:| :------------:| 
+|**Correcte**<br><br><br><br><br>|**Sí** ☑️<br><br>No ☐<br><br><br>|**No**☑️<br><br>Sí ☐<br>**Quin?**<br><br>|**No** ☑️<br><br>Sí ☐<br><br><br>|**No** ☐<br><br>Sí☑️<br>**Quin?**<br>Fora de rang.|**Sí** ☑️<br><br>No ☐<br><br><br>|**No**☑️<br><br>Sí ☐<br>**Quin?**<br><br>|
+|**Alumne**|**Sí** ☐<br><br>No ☐<br><br><br>|**No** ☐<br><br>Sí ☐<br>**Quin?**<br><br>|**No** ☐<br><br>Sí ☐<br><br><br>|**No** ☐<br><br>Sí ☐<br>**Quin?**<br><br>|**Sí** ☐<br><br>No ☐<br><br><br>|**No** ☐<br><br>Sí ☐<br>**Quin?**<br><br>|
+|**Punt**|0.00|0.00|0.00|0.00|0.00|0.00|
+|**Sobre**|0.25|0.5|0.25|0.25|0.25|0.25|
+
 
 **Nom alumne**:
 
